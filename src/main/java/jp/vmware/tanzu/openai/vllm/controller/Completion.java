@@ -1,8 +1,8 @@
-package org.springframework.ai.openai.samples.helloworld.simple;
+package jp.vmware.tanzu.openai.vllm.controller;
 
 public class Completion {
 
-    private String completion;
+    private final String completion;
 
     public Completion(String completion) {
         this.completion = completion;

@@ -1,4 +1,4 @@
-package org.springframework.ai.openai.samples.helloworld;
+package jp.vmware.tanzu.openai.vllm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
